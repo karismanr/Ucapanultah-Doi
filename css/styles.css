@@ -1,0 +1,18 @@
+/* Tambahkan gaya untuk elemen notifikasi awal */
+
+.initial-notif {
+    display: none;
+}
+
+
+/* Tambahkan gaya untuk memberikan efek blur */
+
+.blur {
+    filter: blur(5px);
+    /* Ubah nilai blur sesuai keinginan */
+    pointer-events: none;
+    /* Agar elemen tidak dapat diakses */
+}
+
+
+/* ... Gaya lainnya ... */
